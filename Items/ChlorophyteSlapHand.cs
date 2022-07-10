@@ -26,7 +26,7 @@ namespace SlapHandMod.Items
             Item.rare = 7;
             Item.UseSound = SoundID.Item1;
             Item.autoReuse = true;
-            Item.crit = 15;
+            Item.crit = 30;
 
             Item.shoot = ProjectileID.SporeCloud;
             Item.shootSpeed = 8;

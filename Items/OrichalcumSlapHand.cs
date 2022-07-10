@@ -25,7 +25,7 @@ namespace SlapHandMod.Items
             Item.rare = 4;
             Item.UseSound = SoundID.Item1;
             Item.autoReuse = true;
-            Item.crit = 15;
+            Item.crit = 20;
         }
 
         public override void AddRecipes()
