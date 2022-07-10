@@ -4,8 +4,8 @@ using Terraria.ModLoader;
 
 namespace SlapHandMod
 {
-	public class SlapHandMod : Mod
-	{
+    public class SlapHandMod : Mod
+    {
 
-	}
+    }
 }

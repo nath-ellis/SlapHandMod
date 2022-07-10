@@ -7,12 +7,12 @@ namespace SlapHandMod.Items
 {
     public class ChlorophyteSlapHand : ModItem
     {
-		public override void SetStaticDefaults()
+        public override void SetStaticDefaults()
         {
             
         }
 
-		public override void SetDefaults()
+        public override void SetDefaults()
         {
             Item.damage = 63;
             Item.DamageType = DamageClass.Melee;
@@ -32,7 +32,7 @@ namespace SlapHandMod.Items
             Item.shootSpeed = 8;
         }
 
-		public override void AddRecipes()
+        public override void AddRecipes()
         {
             Recipe recipe = CreateRecipe();
             recipe.AddIngredient(ItemID.ChlorophyteBar, 12);
