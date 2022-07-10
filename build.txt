@@ -1,0 +1,3 @@
+displayName = Slap Hand Mod
+author = 3picninja
+version = 0.1
