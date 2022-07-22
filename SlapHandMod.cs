@@ -16,7 +16,7 @@ namespace SlapHandMod
         {
             if (npc.type == NPCID.MoonLordCore)
             {
-                npcLoot.Add(ItemDropRule.Common(ModContent.ItemType<Items.MeowmereSlapHand>()));
+                npcLoot.Add(ItemDropRule.Common(ModContent.ItemType<Items.MeowmereSlapHand>(), 10));
             }
         }
     }
