@@ -11,3 +11,5 @@ Have you ever wanted to use the Slap Hand against the Moon Lord? Me neither. But
 ![Chlorophyte Slap Hand](Items/ChlorophyteSlapHand.png "Chlorophyte Slap Hand")
 ![Fishron Slap Hand](Items/FishronSlapHand.png "Fishron Slap Hand")
 ![Meowmere Slap Hand](Items/MeowmereSlapHand.png "Meowmere Slap Hand")
+
+Note: This mod is currently still under development so is not yet available on tModLoader.
