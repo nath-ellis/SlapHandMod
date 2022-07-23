@@ -1,5 +1,5 @@
 # Slap Hand Mod
-A Terraria Mod which adds many new Slap Hands.
+Have you ever wanted to use the Slap Hand against the Moon Lord? Me neither. But now you CAN!! Upgrade your Slap Hand and beat the game with your new favourite weapon.
 
 ![Cobalt Slap Hand](Items/CobaltSlapHand.png "Cobalt Slap Hand")
 ![Palladium Slap Hand](Items/PalladiumSlapHand.png "Palladium Slap Hand")
