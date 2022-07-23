@@ -18,6 +18,10 @@ namespace SlapHandMod
             {
                 npcLoot.Add(ItemDropRule.Common(ModContent.ItemType<Items.MeowmereSlapHand>(), 10));
             }
+            else if (npc.type == NPCID.DukeFishron)
+            {
+                npcLoot.Add(ItemDropRule.Common(ModContent.ItemType<Items.FishronSlapHand>(), 6));
+            }
         }
     }
 }
